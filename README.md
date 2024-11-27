@@ -39,10 +39,8 @@ Throughout this manuscript, references to "ICLR'25" denote works submitted to IC
    - [Multi-domain & Supervised Learning (Fine-tuning)](#multi-domain--supervised-learning-fine-tuning)
    - [Multi-domain & Unsupervised Learning](#multi-domain--unsupervised-learning)
    - [Few-shot and Zero-shot Inference](#few-shot-and-zero-shot-inference)
-
-
 ##    Data
-### Single task&Single domain
+### [Single Task & Single Domain](#single-task--single-domain)
 *    _(arXiv 2024.02)_ LPNL: Scalable Link Prediction with Large Language Models [[paper]](https://arxiv.org/abs/2401.13227)
 *    _(ICLR'25)_ Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2310.18152)
 *    _(arXiv 2024.10)_ Language Models are Graph Learners [[paper]](https://arxiv.org/abs/2410.02296) 
@@ -72,12 +70,12 @@ Throughout this manuscript, references to "ICLR'25" denote works submitted to IC
 *    _(WWW'24)_ Can GNN be Good Adapter for LLMs? [[paper]](https://arxiv.org/abs/2402.12984)
 *    _(WWW'24)_ Can we Soff Prompt LLMs for Graph Learning Tasks? [[paper]](https://dl.acm.org/doi/abs/10.1145/3589335.3651476)
 *    _(KDD'24)_ ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs [[paper]](https://arxiv.org/abs/2402.11235)
-### Single task&Multi domain
+### [Single Task & Multi Domain](#single-task--multi-domain)
 *    _(arXiv'24)_ GraphAny: A Foundation Model for
 Node Classiffcation on Any Graph [[paper]](https://arxiv.org/abs/2405.20445)
 *    _(arXiv'24)_ GraphFM: A generalist graph transformer that learns transferable representations across diverse domains [[paper]](https://openreview.net/forum?id=zaxyuX8eqw)
 *    _(WWW'23)_ GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper]](https://arxiv.org/abs/2302.08043)
-### Multi task&Single domain  
+### [Multi Task & Single Domain](#multi-task--single-domain)
 *    _(ACL'23)_ Patton: Language Model Pretraining on Text-Rich Networks [[paper]](https://arxiv.org/abs/2305.12268)
 *    _(arXiv 2024.07)_ ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings [[paper]](https://arxiv.org/abs/2305.14321)
 *    _(arXiv 2023.08)_ SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/abs/2308.02565)
@@ -100,7 +98,7 @@ Node Classiffcation on Any Graph [[paper]](https://arxiv.org/abs/2405.20445)
 *    _(arXiv 2023.10)_ GraphText: Graph Reasoning in Text Space [[paper]](https://arxiv.org/abs/2310.01089)
 *    _(KDD'23)_ All in One: Multi-task Prompting for Graph Neural Networks [[paper]](https://arxiv.org/abs/2307.01504)
 *    _(ICLR'25)_ One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs [[paper]](https://openreview.net/forum?id=10vaHIOdEe)
-### Multi task&Multi domain  
+### [Multi Task & Multi Domain](#multi-task--multi-domain)
 *    _(ACL'24)_ InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[paper]](https://arxiv.org/abs/2402.08785)
 *    _(arXiv 2023.07)_ GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking [[paper]](https://arxiv.org/abs/2305.15066)
 *    _(arXiv 2024.08)_ AnyGraph: Graph Foundation Model in the Wild [[paper]](https://arxiv.org/abs/2408.10700)
