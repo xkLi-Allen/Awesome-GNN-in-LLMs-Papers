@@ -1,8 +1,3 @@
----
-title: 'Graph Learning in the Era of LLMs: A Survey of Data, Models, and Tasks'
-
----
-
 #    Graph Learning in the Era of LLMs: A Survey of Data, Models, and Tasks
 ![Last Commit](https://img.shields.io/github/last-commit/xkLi-Allen/Graph-Learning-in-the-Era-of-LLMs-A-Survey-of-Data-Models-and-Tasks?label=Last%20Commit&color=green)
 ![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xkLi-Allen/Graph-Learning-in-the-Era-of-LLMs-A-Survey-of-Data-Models-and-Tasks&title=Visits&edge_flat=true)
