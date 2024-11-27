@@ -17,8 +17,29 @@ With the proliferation of cross-task and cross-domain textual attribute graphs, 
 
 ####    Notice
 Throughout this manuscript, references to "ICLR'25" denote works submitted to ICLR 2025 but not yet accepted for publication. These submissions are currently under review, and their inclusion here should not be interpreted as confirmation of acceptance. This notation is intended solely to indicate the targeted venue for potential publication and does not imply any final publication status.
-##    Table of Contents
-[TOC]
+## Table of Contents
+
+1. [Graph Learning in the Era of LLMs: A Survey of Data, Models, and Tasks](#graph-learning-in-the-era-of-llms-a-survey-of-data-models-and-tasks)
+2. [Table of Contents](#table-of-contents)
+3. [Data](#data)
+   - [Single Task & Single Domain](#single-task--single-domain)
+   - [Single Task & Multi Domain](#single-task--multi-domain)
+   - [Multi Task & Single Domain](#multi-task--single-domain)
+   - [Multi Task & Multi Domain](#multi-task--multi-domain)
+   - [Graph Reasoning](#graph-reasoning)
+4. [Model](#model)
+   - [GNN and LLM as Independent Collaborative Modules](#gnn-and-llm-as-independent-collaborative-modules)
+   - [GNN-enhanced LLM (Learnable)](#gnn-enhanced-llm-learnable)
+   - [LLM-enhanced GNN (Learnable)](#llm-enhanced-gnn-learnable)
+   - [GNN-only](#gnn-only)
+   - [LLM-only](#llm-only)
+5. [Task](#task)
+   - [Single Domain & Supervised Learning (Fine-tuning)](#single-domain--supervised-learning-fine-tuning)
+   - [Single Domain & Unsupervised Learning](#single-domain--unsupervised-learning)
+   - [Multi-domain & Supervised Learning (Fine-tuning)](#multi-domain--supervised-learning-fine-tuning)
+   - [Multi-domain & Unsupervised Learning](#multi-domain--unsupervised-learning)
+   - [Few-shot and Zero-shot Inference](#few-shot-and-zero-shot-inference)
+
 
 ##    Data
 ### Single task&Single domain
